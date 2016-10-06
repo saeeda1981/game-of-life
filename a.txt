@@ -1,0 +1,9 @@
+a.txt
+gameoflife-acceptance-tests/
+gameoflife-build/
+gameoflife-core/
+gameoflife-deploy/
+gameoflife-web/
+infinitest.filters
+pom.xml
+README.markdown
